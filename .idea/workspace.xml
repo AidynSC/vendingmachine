@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2626d4b-7aae-4962-ae9b-fd34c4c6dd57" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YPKVLBVROmg29yG3tuEOR52h9j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2626d4b-7aae-4962-ae9b-fd34c4c6dd57" name="Default Changelist" comment="" />
+      <created>1582838811751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582838811751</updated>
+      <workItem from="1582838812968" duration="20421000" />
+      <workItem from="1582895690274" duration="20000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="329" width="938" height="456" key="EditFileWatcherDialog" timestamp="1582903349427">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="521" y="329" width="938" height="456" key="EditFileWatcherDialog/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1582903349427" />
+    <state x="315" y="311" width="416" height="498" key="FileChooserDialogImpl" timestamp="1582847633470">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="315" y="311" width="416" height="498" key="FileChooserDialogImpl/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1582847633470" />
+    <state x="659" y="252" key="run.anything.popup" timestamp="1582907078661">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="659" y="252" key="run.anything.popup/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1582907078661" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1582911314722">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1582911314722" />
+  </component>
+</project>
